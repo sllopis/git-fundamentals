@@ -1,7 +1,7 @@
 # Question
 In a git repository, file `.git/index` tracks 
-- [ ] The working tree 
-- [ ] The staging area
-- [ ] The git directory
+- [x] The working tree 
+- [x] The staging area
+- [x] The git directory
 
 # Explanation
