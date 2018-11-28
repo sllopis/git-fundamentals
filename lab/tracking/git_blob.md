@@ -1,7 +1,7 @@
 # Question
 A Git blob object does not contain
 - [ ] A header
-- [ ] The original file name
-- [ ] The original file content
+- [x] The original file name
+- [x] The original file content
 
 # Explanation
